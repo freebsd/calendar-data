@@ -4,8 +4,8 @@
  * $FreeBSD$
  */
 
-#ifndef _ru_RU_UTF_8_all_
-#define _ru_RU_UTF_8_all_
+#ifndef _ru_RU_all_
+#define _ru_RU_all_
 
 #include <ru_RU.UTF-8/calendar.common>
 #include <ru_RU.UTF-8/calendar.holiday>
@@ -13,4 +13,4 @@
 #include <ru_RU.UTF-8/calendar.orthodox>
 #include <ru_RU.UTF-8/calendar.pagan>
 
-#endif /* !_ru_RU_UTF_8_all_ */
+#endif /* !_ru_RU_all_ */

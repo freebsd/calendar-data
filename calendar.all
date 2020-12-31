@@ -8,6 +8,7 @@
 #define _calendar_all_
 
 #include <calendar.world>
+#include <calendar.austria>
 #include <calendar.australia>
 #include <calendar.brazilian>
 #include <calendar.croatian>

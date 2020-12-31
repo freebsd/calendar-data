@@ -8,8 +8,8 @@
  * http://www.novomilenio.inf.br/porto/mapas/nmcalenp.htm
  */
 
-#ifndef _pt_BR_UTF_8_mcommemorative_
-#define _pt_BR_UTF_8_mcommemorative_
+#ifndef _pt_BR_mcommemorative_
+#define _pt_BR_mcommemorative_
 
 LANG=pt_BR.UTF-8
 
