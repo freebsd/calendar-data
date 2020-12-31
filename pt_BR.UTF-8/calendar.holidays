@@ -8,8 +8,8 @@
  * Federal laws 662/1949, 6.802/1980, 9.093/1995 and 10.607/2002.
  */
 
-#ifndef _pt_BR_UTF_8_holidays_
-#define _pt_BR_UTF_8_holidays_
+#ifndef _pt_BR_holidays_
+#define _pt_BR_holidays_
 
 LANG=pt_BR.UTF-8
 

@@ -4,8 +4,8 @@
  * $FreeBSD$
  */
 
-#ifndef _ru_RU_UTF_8_common_
-#define _ru_RU_UTF_8_common_
+#ifndef _ru_RU_common_
+#define _ru_RU_common_
 
 LANG=ru_RU.UTF-8
 
@@ -102,4 +102,4 @@ LANG=ru_RU.UTF-8
 22 дек.	День энергетика
 27 дек.	День спасателя
 
-#endif /* !_ru_RU_UTF_8_common_ */
+#endif /* !_ru_RU_common_ */

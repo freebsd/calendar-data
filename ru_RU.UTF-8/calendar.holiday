@@ -4,8 +4,8 @@
  * $FreeBSD$
  */
 
-#ifndef _ru_RU_UTF_8_holiday_
-#define _ru_RU_UTF_8_holiday_
+#ifndef _ru_RU_holiday_
+#define _ru_RU_holiday_
 
 LANG=ru_RU.UTF-8
 
@@ -22,4 +22,4 @@ LANG=ru_RU.UTF-8
 12 июня	День России
  4 нояб.	День народного единства
 
-#endif /* !_ru_RU_UTF_8_holiday_ */
+#endif /* !_ru_RU_holiday_ */

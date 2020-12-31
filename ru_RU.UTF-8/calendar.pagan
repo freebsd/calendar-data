@@ -4,8 +4,8 @@
  * $FreeBSD$
  */
 
-#ifndef _ru_RU_UTF_8_pagan_
-#define _ru_RU_UTF_8_pagan_
+#ifndef _ru_RU_pagan_
+#define _ru_RU_pagan_
 
 LANG=ru_RU.UTF-8
 Paskha=Пасха
@@ -38,5 +38,4 @@ Paskha=Пасха
 21 нояб.	День Сварога и Семаргла
  9 дек.	День Дажьбога и Марены
 
-#endif /* !_ru_RU_UTF_8_pagan_ */
-
+#endif /* !_ru_RU_pagan_ */
