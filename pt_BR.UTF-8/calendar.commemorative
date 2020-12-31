@@ -4,10 +4,12 @@
  * Originally submitted by Renato Tambellini <rtsanch@gmail.com>
  *
  * Brazilian commemorative days
+ *
+ * http://www.ibge.gov.br/ibgeteen/datas/home.html
  */
 
-#ifndef _pt_BR_UTF_8_commemorative_
-#define _pt_BR_UTF_8_commemorative_
+#ifndef _pt_BR_commemorative_
+#define _pt_BR_commemorative_
 
 LANG=pt_BR.UTF-8
 

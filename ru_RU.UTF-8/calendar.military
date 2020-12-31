@@ -4,8 +4,8 @@
  * $FreeBSD$
  */
 
-#ifndef _ru_RU_UTF_8_military_
-#define _ru_RU_UTF_8_military_
+#ifndef _ru_RU_military_
+#define _ru_RU_military_
 
 LANG=ru_RU.UTF-8
 
@@ -25,4 +25,4 @@ LANG=ru_RU.UTF-8
  5 дек.	День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)
 24 дек.	День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)
 
-#endif /* !_ru_RU_UTF_8_military_ */
+#endif /* !_ru_RU_military_ */

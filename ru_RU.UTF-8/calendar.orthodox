@@ -4,8 +4,8 @@
  * $FreeBSD$
  */
 
-#ifndef _ru_RU_UTF_8_orthodox_
-#define _ru_RU_UTF_8_orthodox_
+#ifndef _ru_RU_orthodox_
+#define _ru_RU_orthodox_
 
 LANG=ru_RU.UTF-8
 Paskha=Пасха
@@ -32,5 +32,4 @@ Paskha=Пасха
 28 авг.	Успение Пресвятой Богородицы
 11 сент.	Усекновение главы Иоанна Предтечи
 
-#endif /* !_ru_RU_UTF_8_orthodox_ */
-
+#endif /* !_ru_RU_orthodox_ */

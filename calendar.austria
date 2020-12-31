@@ -1,0 +1,12 @@
+/*
+ * German calendar file(s)
+ *
+ * $FreeBSD: head/usr.bin/calendar/calendars/calendar.german 358562 2020-03-03 00:20:08Z cem $
+ */
+
+#ifndef _calendar_austria_
+#define _calendar_austria_
+
+#include <de_AT.UTF-8/calendar.feiertag>
+
+#endif /* !_calendar_austria_ */
