@@ -1,8 +1,4 @@
-/*
- * Musik
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/de_DE.ISO8859-1/calendar.musik 163673 2006-10-24 23:18:07Z grog $
- */
+/* Musik */
 
 #ifndef _de_DE_musik_
 #define _de_DE_musik_

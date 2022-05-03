@@ -1,8 +1,4 @@
-/*
- * Wissenschaft
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/de_DE.ISO8859-1/calendar.wissenschaft 121109 2003-10-15 08:18:59Z tg $
- */
+/* Wissenschaft */
 
 #ifndef _de_DE_wissenschaft_
 #define _de_DE_wissenschaft_
