@@ -12,8 +12,6 @@
  * English Title: Questions on German history
  *
  * ISBN 3-924521-59-X
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/de_DE.ISO8859-1/calendar.geschichte 364057 2020-08-09 00:35:47Z grog $
  */
 
 #ifndef _de_DE_geschichte_

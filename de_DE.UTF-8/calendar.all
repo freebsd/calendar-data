@@ -1,8 +1,4 @@
-/*
- * deutscher Kalender
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/de_DE.UTF-8/calendar.all 78047 2001-06-11 03:08:46Z ache $
- */
+/* deutscher Kalender */
 
 #ifndef _de_DE_all_
 #define _de_DE_all_
