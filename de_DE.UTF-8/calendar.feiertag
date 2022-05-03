@@ -1,8 +1,4 @@
-/*
- * Feiertage
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/de_DE.ISO8859-1/calendar.feiertag 162920 2006-10-01 09:22:05Z maxim $
- */
+/* Feiertage */
 
 #ifndef _de_DE_feiertag_
 #define _de_DE_feiertag_

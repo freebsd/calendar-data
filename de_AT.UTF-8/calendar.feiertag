@@ -1,8 +1,4 @@
-/*
- * Feiertage
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/de_AT.ISO_8859-15/calendar.feiertag 343560 2019-01-29 19:54:37Z gonzo $
- */
+/* Feiertage */
 
 #ifndef _de_AT_feiertag_
 #define _de_AT_feiertag_

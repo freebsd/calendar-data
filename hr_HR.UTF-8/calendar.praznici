@@ -1,8 +1,4 @@
-/*
- * hrvatski praznici
- *
- * $FreeBSD: head/usr.bin/calendar/calendars/hr_HR.ISO8859-2/calendar.praznici 349371 2019-06-25 14:50:03Z zec $
- */
+/* hrvatski praznici */
 
 #ifndef _hr_HR_praznici_
 #define _hr_HR_praznici_
