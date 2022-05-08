@@ -16,7 +16,7 @@ LANG=fr_FR.UTF-8
 07/14	Fête nationale française
 11/11	Armistice 1918
 
-/* Jours fériés religieux */
+/* Jours fériés issus du christianisme */
 Easter		Pâques
 Easter+1 	Lundi de Pâques
 Easter+39	Ascension
