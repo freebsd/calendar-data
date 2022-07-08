@@ -1,0 +1,22 @@
+/*
+ * Danske helligdage
+ */
+
+#ifndef _da_DK_helligdage_
+#define _da_DK_helligdage_
+
+LANG=UTF-8
+
+01/01	Nytårsdag 🏴
+Easter-3	Skærtorsdag
+Easter-2	Langfredag 🏴
+Easter+0	Påskedag 🏴
+Easter+1	2. påskedag
+Easter+26	Store bededag
+Easter+39	Kristi himmelfartsdag 🏴
+Easter+49	Pinsedag 🏴
+Easter+50	2. Pinsedag
+12/25	Juledag 🏴
+12/26	2. Juledag
+#endif /* !_da_DK_helligdage_ */
+
