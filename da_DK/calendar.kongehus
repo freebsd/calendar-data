@@ -1,0 +1,24 @@
+/*
+ * Danske mærkedage, kongehuset
+ */
+
+#ifndef _da_DK_kongehuset_
+#define _da_DK_kongehuset_
+
+LANG=UTF-8
+
+01/08	Prins Vincent (f. 2011)
+01/08	Prinsesse Josephine (f. 2011)
+01/24	Prinsesse Athena (f. 2012)
+02/05	Kronprinsesse Mary (f. 1972) 🏴
+02/06	Prinsesse Marie (f. 1976) 🏴
+04/16	Dronnig Margrethe (f. 1940) 🏴
+04/21	Prinsesse Isabella (f. 2007)
+04/29	Prinsesse Benedikte (f. 1944) 🏴
+05/26	Kronprins Frederik (f. 1968) 🏴
+06/07	Prins Joachim (f. 1969) 🏴
+07/22	Prins Felix (f. 2002)
+08/28	Prins Nikolaj (f. 1999)
+10/15	Prins Christian (f. 2005)
+
+#endif /* !_da_DK_kongehuset_ */

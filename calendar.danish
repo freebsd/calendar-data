@@ -1,0 +1,11 @@
+/*
+ * Danish calendar file(s)
+ *
+ */
+
+#ifndef _calendar_danish_
+#define _calendar_danish_
+
+#include <da_DK/calendar.all>
+
+#endif /* !_calendar_danish_ */
