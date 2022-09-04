@@ -2,8 +2,8 @@
  * Danske mærkedage, kongehuset
  */
 
-#ifndef _da_DK_kongehuset_
-#define _da_DK_kongehuset_
+#ifndef _da_DK.UTF-8_kongehuset_
+#define _da_DK.UTF-8_kongehuset_
 
 LANG=UTF-8
 
@@ -21,4 +21,4 @@ LANG=UTF-8
 08/28	Prins Nikolaj (f. 1999)
 10/15	Prins Christian (f. 2005)
 
-#endif /* !_da_DK_kongehuset_ */
+#endif /* !_da_DK.UTF-8_kongehuset_ */
