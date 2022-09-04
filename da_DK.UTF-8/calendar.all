@@ -1,0 +1,13 @@
+/*
+ * Dansk Kalender
+ *
+ */
+
+#ifndef _da_DK.UTF-8_all_
+#define _da_DK.UTF-8_all_
+
+#include <da_DK.UTF-8/calendar.helligdage>
+#include <da_DK.UTF-8/calendar.kongehus>
+#include <da_DK.UTF-8/calendar.maerkedage>
+
+#endif /* !_da_DK.UTF-8_all_ */
