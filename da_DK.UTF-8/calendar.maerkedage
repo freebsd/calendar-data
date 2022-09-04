@@ -2,8 +2,8 @@
  * Danske mærkedage
  */
 
-#ifndef _da_DK_maerkedage_
-#define _da_DK_maerkedage_
+#ifndef _da_DK.UTF-8_maerkedage_
+#define _da_DK.UTF-8_maerkedage_
 
 LANG=UTF-8
 
@@ -33,5 +33,5 @@ May Sun+2	Mors dag
 12/24	Juleaftensdag 🏲
 12/31	Nytårsaftensdag 🏲
 
-#endif /* !_da_DK_maerkedage_ */
+#endif /* !_da_DK.UTF-8_maerkedage_ */
 

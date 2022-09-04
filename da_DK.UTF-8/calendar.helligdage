@@ -2,8 +2,8 @@
  * Danske helligdage
  */
 
-#ifndef _da_DK_helligdage_
-#define _da_DK_helligdage_
+#ifndef _da_DK.UTF-8_helligdage_
+#define _da_DK.UTF-8_helligdage_
 
 LANG=UTF-8
 
@@ -18,5 +18,5 @@ Easter+49	Pinsedag 🏴
 Easter+50	2. Pinsedag
 12/25	Juledag 🏴
 12/26	2. Juledag
-#endif /* !_da_DK_helligdage_ */
+#endif /* !_da_DK.UTF-8_helligdage_ */
 
