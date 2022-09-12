@@ -6,6 +6,6 @@
 #ifndef _calendar_danish_
 #define _calendar_danish_
 
-#include <da_DK/calendar.all>
+#include <da_DK.UTF-8/calendar.all>
 
 #endif /* !_calendar_danish_ */
